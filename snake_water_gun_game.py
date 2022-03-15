@@ -52,7 +52,7 @@ while rounds <=n:
 #         print("Draw")
 #     else:
 #         print(f"com wins round {rounds}")
-#     rounds+=1
+    rounds+=1
 # Final winner
 
 if user_points > com_points:

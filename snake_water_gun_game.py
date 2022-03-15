@@ -46,13 +46,13 @@ while rounds <=n:
         com_points+=1
 
     # every round winner
-    if user_points > com_points:
-        print(f"player wins round {rounds}")
-    elif comp==player:
-        print("Draw")
-    else:
-        print(f"com wins round {rounds}")
-    rounds+=1
+#     if user_points > com_points:
+#         print(f"player wins round {rounds}")
+#     elif comp==player:
+#         print("Draw")
+#     else:
+#         print(f"com wins round {rounds}")
+#     rounds+=1
 # Final winner
 
 if user_points > com_points:
